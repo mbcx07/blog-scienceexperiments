@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scienceexperiments.com/blog-scienceexperiments/sitemap.xml
